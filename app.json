@@ -1,0 +1,12 @@
+{
+  "name": "helloApp",
+  "displayName": "helloApp",
+  "expo": {
+    "name": "helloApp",
+    "slug": "helloApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
